@@ -1,0 +1,6 @@
+Flask
+joblib
+numpy
+scikit-learn  # Only if you're using a scikit-learn model
+tensorflow  # If you're using a TensorFlow/Keras model
+gunicorn  # For deploying on platforms like Heroku
